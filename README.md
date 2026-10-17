@@ -4,6 +4,10 @@ A minimal recording indicator for [voxtype](https://voxtype.io), in the spirit o
 Wispr Flow: a small dark pill near the bottom of the screen with nine thin bars
 that move with your voice. No icon, no border, no level meter.
 
+![The pill while recording](media/pill.png)
+
+![The pill on an Omarchy desktop](media/desktop.jpg)
+
 - **Recording:** the bars rise and fall with your mic level, taller in the middle.
 - **Transcribing:** the bars ripple gently until the text is typed.
 - **Idle:** the pill fades away.
